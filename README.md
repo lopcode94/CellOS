@@ -1,4 +1,4 @@
-# Symbio-Shack
+# CellOS (Symbio-Shack)
 
 **Don't digest me, I'll be your engine!** An endosymbiosis comedy roguelike in Godot 4. You're a frantic bacterium running the power plant inside a giant, dim-witted amoeba.
 
